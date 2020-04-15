@@ -2,7 +2,7 @@
 
 Standard ANSI 60% layout using the DZ60 Rev 3.0 USB-C.
 
-See [firmware.json](./firmware.json).
+See [keymap.json](./firmware.json).
 
 Layer 0:
 
